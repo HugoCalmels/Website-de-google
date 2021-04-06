@@ -1,0 +1,94 @@
+
+nav
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body
+{
+    margin: 0%;
+}
+
+.nav-links span
+{
+    padding: 10px ;  
+}
+
+
+
+footer
+{
+    position : absolute;
+    bottom : 0 ;
+    width : 100% ;
+    background-color: #ebebeb;
+}
+
+#section
+{
+ display : flex ;
+ flex-direction : column ;
+}
+
+
+
+.country
+{
+    padding: 15px 30px ;
+    border : 1px solid #c5c5c5;    
+}
+
+.links
+{
+    display : flex ;
+    flex-direction: column; 
+    border : 1px solid #c5c5c5;  
+}
+
+.searchbar
+{
+display : flex ;
+justify-content: center;
+}
+
+#imgGoogle{
+    display: block;
+    margin: 0 auto;
+}
+#dispoEN{
+    text-align: center;
+}
+#search
+{
+border : none ;
+}
+
+.bottom
+{
+    display : flex ;
+    justify-content: space-between;
+}
+
+.top
+{
+    align-self: center;
+}
+
+.icon-1 
+{
+    height : 24px ;
+    justify-self:  center ;
+}
+.icon-2
+{
+    height : 24px ;
+    justify-self:  center ;
+}
+
+.espacement
+{
+    padding : 60px ;
+    margin : 30px ;
+    background-color: white;
+}
